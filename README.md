@@ -3,13 +3,17 @@
 <h3 align="center">A High school student, currently learning Web Development, Building Projects and looking forward to contributing to Open Source.</h3>
 <img align="center" alt="Coding" width="1000" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
+<a href="https://app.daily.dev/KrishJ999"><img align="right" src="https://api.daily.dev/devcards/b30e1d5e64d8419b96b475e2996ef0e5.png?r=nta" width="400" alt="Krish Jaiswal's Dev Card"/></a>
+
 <p align="left"> <a href="https://twitter.com/krishjaiswal999" target="blank"><img src="https://img.shields.io/twitter/follow/krishjaiswal999?logo=twitter&style=for-the-badge" alt="krishjaiswal999" /></a> </p>
+
 
 - 🌱 I’m currently learning **JavaScript**
 
 - 👯 I’m looking to contribute to **Open Source Projects**
 
 - 📫 My Contact Email **krishvp4856@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
