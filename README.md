@@ -1,19 +1,19 @@
 ![](banner.png)
 <h1 align="center">Hi 👋, I'm Krish Jaiswal</h1>
 
-<h2>About Me</h2>
+<p>
+👨‍🎓 High School Student
 
-High School Student
+💻 Aspiring Full Stack Web Developer
 
-Aspiring Full Stack Web Developer
+💪 Open Source Enthusiast
 
-Open Source Enthusiast
+🌱 Currently learning **JavaScript** and **Tailwind CSS**
 
-Currently learning **JavaScript** and **Tailwind CSS**
+🔭 Looking to contribute to **Open Source Projects**
+</p>
 
-Looking to contribute to **Open Source Projects**
-
-<h2>Tech Stack</h2>
+<h1>Tech Stack</h1>
 
  <p align="left">
   <a href="#">
