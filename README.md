@@ -1,19 +1,42 @@
 ![](banner.png)
 <h1 align="center">Hi 👋, I'm Krish Jaiswal</h1>
-<h3 align="center">A High school student, currently learning Web Development, Building Projects and looking forward to contributing to Open Source.</h3>
-<img align="right" alt="Coding" width="200" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
-<a href="https://app.daily.dev/KrishJ999"><img align="right" src="https://api.daily.dev/devcards/b30e1d5e64d8419b96b475e2996ef0e5.png?r=nta" width="400" alt="Krish Jaiswal's Dev Card"/></a>
+<h2>About Me</h2>
 
-<p align="left"> <a href="https://twitter.com/krish4856" target="blank"><img src="https://img.shields.io/twitter/follow/krish4856?logo=twitter&style=for-the-badge" alt="krish4856" /></a> </p>
+High School Student
 
+Aspiring Full Stack Web Developer
 
-- 🌱 I’m currently learning **JavaScript** and **Tailwind CSS**
+Open Source Enthusiast
 
-- 👯 I’m looking to contribute to **Open Source Projects**
+Currently learning **JavaScript** and **Tailwind CSS**
 
-- 📫 My Contact Email **krishvp4856@gmail.com** - Let's Connect
+Looking to contribute to **Open Source Projects**
 
+<h2>Tech Stack</h2>
+
+ <p align="left">
+  <a href="#">
+    <img alt="nodejs" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/nodejs.svg" alt="qt" style="vertical-align:top; margin:6px 4px">
+  </a>  
+    <a href="#">
+    <img alt="html" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="qt" style="vertical-align:top; margin:6px 4px">
+  </a>
+   <a href="#">
+    <img alt="css" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" alt="qt" style="vertical-align:top; margin:6px 4px">
+  </a>
+   <a href="#">
+    <img alt="JS" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/js.svg" alt="qt" style="vertical-align:top; margin:6px 4px">
+  </a>
+   <a href="#">
+    <img alt="web" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/web.svg" alt="qt" style="vertical-align:top; margin:6px 4px">
+  </a>
+   <a href="#">
+    <img alt="vscode" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" alt="qt" style="vertical-align:top; margin:6px 4px">
+  </a>
+ </p>
+
+![Contribution](https://activity-graph.herokuapp.com/graph?username=krishj4856&theme=react-dark&hide_border=true&area=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
