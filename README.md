@@ -1,4 +1,4 @@
-![](banner.png)
+![krish-banner](https://user-images.githubusercontent.com/114345816/204021518-32f709c2-3fbc-4478-b695-2f2abf01b380.jpg)
 <h1 align="center">Hi 👋, I'm Krish Jaiswal</h1>
 
 <p>
