@@ -1,47 +1,166 @@
 ![krish-banner](https://user-images.githubusercontent.com/114345816/204021518-32f709c2-3fbc-4478-b695-2f2abf01b380.jpg)
-<h1 align="center">Hi 👋, I'm Krish Jaiswal</h1>
 
-<p>
-👨‍🎓 High School Student
+## My Introduction ✨
+<table>
+  <tr>
+    <td valign="center">
+      <a href="https://linkfree.eddiehub.io/KrishJ4856">
+        <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="My Portfolio"/></a>
+      <p>
+        <h3>Hello👋🏾</h3>
+        👀 &nbsp; I am a high schooler, passionate about Web Development.
+        <br/>
+     🚀 &nbsp; I write blogs on <a href="https://krishwebdev.hashnode.dev/">Hashnode.</a>
+        <br/>
+        🙂 &nbsp; I am currently learning ReactJS and Firebase and also exploring a bit of React Native.
+        <br/>
+        🧑🏽‍💻 &nbsp;I create informative threads on Twitter, You can reach out to me from here
+        <br />
+        💙 &nbsp;Follow me on github to stay tuned on my amazing projects.
+        <br />
+        <h3>Twitter</h3>
+        <a href="https://twitter.com/Krish4856">
+          <img src="https://img.shields.io/twitter/follow/KrishJ4856?color=0F182A&logo=twitter&style=for-the-badge" alt="Twitter Follow Badge"/></a>
+       </p>
+    </td>
+    <td>
+      <a href="https://app.daily.dev/KrishJ999"><img src="https://api.daily.dev/devcards/b30e1d5e64d8419b96b475e2996ef0e5.png?r=ao8" width="400" alt="Krish Jaiswal's Dev Card"/></a>
+    </td>
+  </tr>
+ </table> <br/>
 
-💻 Aspiring Full Stack Web Developer
+## My Github Stats && Technologies I use:
 
-💪 Open Source Enthusiast
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/KrishJ4856"><img alt="Krish's Github Stats" src="https://github-readme-stats.vercel.app/api?username=KrishJ4856&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" /></a>
+    </td>
+    <td>
+      <a href="http://www.github.com/KrishJ4856"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KrishJ4856&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+    </td>
+    <td>
+      <a href="https://github.com/KrishJ4856"><img alt="Krish's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishJ4856&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p align="center">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
+        </a>
+        <p align="center">JavaScript</p>
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
+        </a>
+        <p align="center">HTML5</p>
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" />
+      </a>
+        <p align="center">Redux</p>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p align="center">
+        <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
+      </a>
+        <p align="center">CSS</p>
+      </p>
+    </td>
+    <td>      
+      <p align="center">
+        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
+        </a>
+        <p align="center">Tailwind</p>
+      </p>
+    </td>
+    <td>            
+      <p align="center">
+        <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
+      </a>
+        <p align="center">NodeJS</p>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p align="center">
+        <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
+        </a>
+        <p align="center">React</p>
+      </p>
+    </td>
+    <td>
+      <p align="center">
+          <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" />
+          </a>
+        <p align="center">Firebase</p>
+      </p>      
+    </td>
+  </tr>
+</table> <br/>
 
-🌱 Currently learning **JavaScript** and **Tailwind CSS**
+## Recent Blog Posts:
 
-🔭 Looking to contribute to **Open Source Projects**
-</p>
-
-<h1>Tech Stack</h1>
-
- <p align="left">
-  <a href="#">
-    <img alt="nodejs" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/nodejs.svg" alt="qt" style="vertical-align:top; margin:6px 4px">
-  </a>  
-    <a href="#">
-    <img alt="html" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="qt" style="vertical-align:top; margin:6px 4px">
-  </a>
-   <a href="#">
-    <img alt="css" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" alt="qt" style="vertical-align:top; margin:6px 4px">
-  </a>
-   <a href="#">
-    <img alt="JS" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/js.svg" alt="qt" style="vertical-align:top; margin:6px 4px">
-  </a>
-   <a href="#">
-    <img alt="web" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/web.svg" alt="qt" style="vertical-align:top; margin:6px 4px">
-  </a>
-   <a href="#">
-    <img alt="vscode" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" alt="qt" style="vertical-align:top; margin:6px 4px">
-  </a>
- </p>
-
-![Contribution](https://activity-graph.herokuapp.com/graph?username=krishj4856&theme=react-dark&hide_border=true&area=true)
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/krish4856" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="krish4856" height="30" width="40" /></a>
-</p>
+<a href="https://krishwebdev.hashnode.dev/destructuring-in-javascript" title="Destructuring in JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1672768024356/2e069585-a765-482d-99db-07a75beec444.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Destructuring in JavaScript" width="350px" align="left" /></a>
+<a href="https://krishwebdev.hashnode.dev/destructuring-in-javascript" title="Destructuring in JavaScript"><strong>Destructuring in JavaScript</strong></a>
+<br/> Destructuring in JavaScript is a powerful and one of the coolest features of ES6. It gains importance especially when you move on from Vanilla JavaScript and start learning Frameworks like React where you will find destructuring used in almost every single file...
+</p> <br/> <br/>
+<p align="left">
+<a href="https://krishwebdev.hashnode.dev/setting-up-your-tailwind-css-project" title="Setting Up Your Tailwind CSS Project"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1672040492664/4a281667-a089-4afa-9ed4-32edcc314f73.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Setting Up Your Tailwind CSS Project" width="350px" align="left" /></a>
+<a href="https://krishwebdev.hashnode.dev/setting-up-your-tailwind-css-project" title="Setting Up Your Tailwind CSS Project"><strong>Setting Up Your Tailwind CSS Project</strong></a>
+<br/> If you are new to Tailwind CSS, setting up your first Tailwind Project may be hard and confusing for most. Many give up learning this beautiful framework simply because they are doing some silly mistakes...
+</p> <br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+## Recent Threads On Twitter:
+
+<p align="left">
+<a href="https://twitter.com/Krish4856/status/1616517509368406017?s=20&t=qdmQvsqA4qcffSVKCp4zDA" title="TailwindCSS + ReactJS Project Setup"><img src="https://pbs.twimg.com/media/Fm7aM-daAAIcKpO?format=jpg&name=small" alt="TailwindCSS + ReactJS Project Setup" width="350px" align="left" /></a>
+<a href="https://twitter.com/Krish4856/status/1616517509368406017?s=20&t=qdmQvsqA4qcffSVKCp4zDA" title="TailwindCSS + ReactJS Project Setup"><strong>TailwindCSS + ReactJS Project Setup</strong></a>
+<br/> Do you want to know How you can set up a Tailwind + ReactJS Project?
+In this thread we will be discussing the steps you need to follow to integrate TailwindCSS with your React project...
+</p> <br/> <br/>
+<p align="left">
+<a href="https://twitter.com/Krish4856/status/1611330756684689409?s=20&t=qdmQvsqA4qcffSVKCp4zDA" title="6 Use Cases Of useEffect() Hook In React"><img src="https://pbs.twimg.com/media/FlyX8TKagAMSdBt?format=jpg&name=900x900" alt="Setting Up Your Tailwind CSS Project" width="350px" align="left" /></a>
+<a href="https://twitter.com/Krish4856/status/1611330756684689409?s=20&t=qdmQvsqA4qcffSVKCp4zDA"><strong>6 Use Cases Of useEffect() Hook In React</strong></a>
+<br/> Learn all the 6 use cases of useEffect() Hook in ReactJS. This thread will give you a detailed understanding of the useEffect() hook and when and how should you use them...
+</p> <br/>
+
+## My Projects👇
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/KrishJ4856/Rock-Paper-Scissors-App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KrishJ4856&repo=Rock-Paper-Scissors-App" /></a>
+    </td>
+    <td>
+      <a href="https://github.com/KrishJ4856/Case-Converter-App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KrishJ4856&&repo=Case-Converter-App" /></a>
+    </td>
+   </tr>
+ <tr>
+   <td>
+      <a href="https://github.com/KrishJ4856/QR-Code-Generator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KrishJ4856&&repo=QR-Code-Generator" /></a>
+    </td>
+   <td>
+      <a href="https://github.com/KrishJ4856/Calculator-App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KrishJ4856&&repo=Calculator-App" /></a>
+    </td>
+  </tr>
+</table>
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=KrishJ4856&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
