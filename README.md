@@ -156,7 +156,7 @@ In this thread we will be discussing the steps you need to follow to integrate T
 <a href="https://twitter.com/Krish4856/status/1611330756684689409?s=20&t=qdmQvsqA4qcffSVKCp4zDA" title="6 Use Cases Of useEffect() Hook In React"><img src="https://pbs.twimg.com/media/FlyX8TKagAMSdBt?format=jpg&name=900x900" alt="Setting Up Your Tailwind CSS Project" width="400px" align="left" /></a>
 <a href="https://twitter.com/Krish4856/status/1611330756684689409?s=20&t=qdmQvsqA4qcffSVKCp4zDA"><h3>6 Use Cases Of useEffect() Hook In React</h3></a>
 Learn all the 6 use cases of useEffect() Hook in ReactJS. This thread will give you a detailed understanding of the useEffect() hook and when and how should you use them...
-<br/>
+<br/> 
 </td>
 </tr>
 </table>
