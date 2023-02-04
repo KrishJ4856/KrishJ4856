@@ -29,8 +29,7 @@
   </tr>
  </table> <br/>
 
-## My Github Stats && Technologies I use:
-
+## My Github Stats && Technologies I use 👀
 <table>
   <tr>
     <td>
@@ -115,8 +114,7 @@
   </tr>
 </table> <br/>
 
-## Recent Blog Posts:
-
+## Recent Blog Posts 📝
 <table>
 <tr>
 <td>
@@ -139,8 +137,7 @@ Destructuring in JavaScript is a powerful and one of the coolest features of ES6
 </tr>
 </table>
 
-## Recent Threads On Twitter:
-
+## Recent Threads On Twitter 🧵
 <table>
 <tr>
 <td>
@@ -164,8 +161,7 @@ Learn all the 6 use cases of useEffect() Hook in ReactJS. This thread will give 
 </tr>
 </table>
 
-## My Projects👇
-
+## My Projects 🤩
 <table>
   <tr>
     <td>
