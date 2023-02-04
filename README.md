@@ -123,7 +123,7 @@
 <br/>
 <a href="https://krishwebdev.hashnode.dev/destructuring-in-javascript" title="Destructuring in JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1672768024356/2e069585-a765-482d-99db-07a75beec444.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Destructuring in JavaScript" width="400px" align="left" /></a>
 <a href="https://krishwebdev.hashnode.dev/destructuring-in-javascript" title="Destructuring in JavaScript"><h3>Destructuring in JavaScript</h3></a>
-<strong> Destructuring in JavaScript is a powerful and one of the coolest features of ES6. It gains importance especially when you move on from Vanilla JavaScript and start learning Frameworks like React where you will find destructuring used in almost every single file...</strong>
+Destructuring in JavaScript is a powerful and one of the coolest features of ES6. It gains importance especially when you move on from Vanilla JavaScript and start learning Frameworks like React where you will find destructuring used in almost every single file...
 <br/>
 </td>
 </tr>
@@ -133,14 +133,13 @@
 <br/>
 <a href="https://krishwebdev.hashnode.dev/setting-up-your-tailwind-css-project" title="Setting Up Your Tailwind CSS Project"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1672040492664/4a281667-a089-4afa-9ed4-32edcc314f73.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Setting Up Your Tailwind CSS Project" width="400px" align="left" /></a>
 <a href="https://krishwebdev.hashnode.dev/setting-up-your-tailwind-css-project" title="Setting Up Your Tailwind CSS Project"><h3>Setting Up Your Tailwind CSS Project</h3></a>
-<strong> If you are new to Tailwind CSS, setting up your first Tailwind Project may be hard and confusing for most. Many give up learning this beautiful framework simply because they are doing some silly mistakes.../strong>
+ If you are new to Tailwind CSS, setting up your first Tailwind Project may be hard and confusing for most. Many give up learning this beautiful framework simply because they are doing some silly mistakes...
 <br/>
 </td>
 </tr>
 </table>
 
 ## Recent Threads On Twitter:
-<strong></strong>
 
 <table>
 <tr>
@@ -148,8 +147,8 @@
 <br/>
 <a href="https://twitter.com/Krish4856/status/1616517509368406017?s=20&t=qdmQvsqA4qcffSVKCp4zDA" title="TailwindCSS + ReactJS Project Setup"><img src="https://pbs.twimg.com/media/Fm7aM-daAAIcKpO?format=jpg&name=small" alt="TailwindCSS + ReactJS Project Setup" width="400px" align="left" /></a>
 <a href="https://twitter.com/Krish4856/status/1616517509368406017?s=20&t=qdmQvsqA4qcffSVKCp4zDA" title="TailwindCSS + ReactJS Project Setup"><h3>TailwindCSS + ReactJS Project Setup</h3></a>
-<br/> <strong>Do you want to know How you can set up a Tailwind + ReactJS Project?
-In this thread we will be discussing the steps you need to follow to integrate TailwindCSS with your React project...</strong>
+Do you want to know How you can set up a Tailwind + ReactJS Project?
+In this thread we will be discussing the steps you need to follow to integrate TailwindCSS with your React project...
 <br/>
 </td>
 </tr>
@@ -159,7 +158,7 @@ In this thread we will be discussing the steps you need to follow to integrate T
 <br/>
 <a href="https://twitter.com/Krish4856/status/1611330756684689409?s=20&t=qdmQvsqA4qcffSVKCp4zDA" title="6 Use Cases Of useEffect() Hook In React"><img src="https://pbs.twimg.com/media/FlyX8TKagAMSdBt?format=jpg&name=900x900" alt="Setting Up Your Tailwind CSS Project" width="400px" align="left" /></a>
 <a href="https://twitter.com/Krish4856/status/1611330756684689409?s=20&t=qdmQvsqA4qcffSVKCp4zDA"><h3>6 Use Cases Of useEffect() Hook In React</h3></a>
-<strong>Learn all the 6 use cases of useEffect() Hook in ReactJS. This thread will give you a detailed understanding of the useEffect() hook and when and how should you use them...</strong>
+Learn all the 6 use cases of useEffect() Hook in ReactJS. This thread will give you a detailed understanding of the useEffect() hook and when and how should you use them...
 <br/>
 </td>
 </tr>
