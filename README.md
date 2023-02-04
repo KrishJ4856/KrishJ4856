@@ -111,6 +111,14 @@
         <p align="center">Firebase</p>
       </p>      
     </td>
+    <td>
+      <p align="center">
+          <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+          <img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" />
+          </a>
+        <p align="center">Express</p>
+      </p>      
+    </td>
   </tr>
 </table> <br/>
 
