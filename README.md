@@ -1,4 +1,5 @@
-![krish-banner](https://user-images.githubusercontent.com/114345816/204021518-32f709c2-3fbc-4478-b695-2f2abf01b380.jpg)
+![krish-banner](https://user-images.githubusercontent.com/114345816/232287628-c6c967e2-4aae-465e-9509-8b29186f58a9.jpeg)
+
 
 ## My Introduction ✨
 <table>
@@ -12,7 +13,7 @@
         <br/>
      🚀 &nbsp; I write blogs on <a href="https://krishwebdev.hashnode.dev/">Hashnode.</a>
         <br/>
-        🙂 &nbsp; I am currently learning ReactJS and Firebase and also exploring a bit of React Native.
+        🙂 &nbsp; I am currently learning React, Node and ExpressJS
         <br/>
         🧑🏽‍💻 &nbsp;I create informative threads on Twitter, You can reach out to me from here
         <br />
