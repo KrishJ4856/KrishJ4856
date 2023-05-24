@@ -1,6 +1,5 @@
 ![krish-banner](https://user-images.githubusercontent.com/114345816/232287628-c6c967e2-4aae-465e-9509-8b29186f58a9.jpeg)
 
-
 ## My Introduction ✨
 <table>
   <tr>
