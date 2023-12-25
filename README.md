@@ -30,6 +30,7 @@ Hello everyone 👋 In this tutorial, you'll learn how to make a simple Task Man
 </td>
 </tr>
 <br/>
+
 <tr>
 <td>
 <br/>
@@ -42,6 +43,33 @@ Hello folks! 👋 Recently, I have been learning about Node.js. So I decided to 
 <br/>
 </td>
 </tr>
+<br/>
+
+<tr>
+<td>
+<br/>
+<a href="https://krishwebdev.hashnode.dev/learn-linux-basics" title="Learn Linux Basics"><img src="https://github.com/KrishJ4856/KrishJ4856/assets/114345816/e616a53d-fbe8-4f79-8429-53c53c9ee2a3" alt="Learn Linux Basics" width="300px" align="left" /></a>
+
+<a href="https://krishwebdev.hashnode.dev/learn-linux-basics" title="Learn Linux Basics"><h3>Learn Linux Basics</h3></a>
+Hello folks, In this blog I will be sharing my learnings about the Basics of Linux which includes some basic Linux terms and commands! This blog is a part of the series - Linux In One Go where I share my learnings about the Linux Operating System, So without wasting much time, Let's get started...
+<br/>
+<br/>
+</td>
+</tr>
+<br/>
+
+<tr>
+<td>
+<br/>
+<a href="https://krishwebdev.hashnode.dev/setting-up-your-tailwind-css-project" title="Setting Up Your Tailwind CSS Project"><img src="https://github.com/KrishJ4856/KrishJ4856/assets/114345816/6de31000-0d38-4b11-b56f-17ba44750f03" alt="Setting Up Your Tailwind CSS Project" width="300px" align="left" /></a>
+
+<a href="https://krishwebdev.hashnode.dev/setting-up-your-tailwind-css-project" title="Setting Up Your Tailwind CSS Project"><h3>Setting Up Your Tailwind CSS Project</h3></a>
+In this blog post, we will be learning all that we need to get started with Tailwind CSS. If you are new to Tailwind CSS, setting up your first Tailwind Project may be hard and confusing for most. Many give up learning this beautiful framework simply because they are doing some silly mistakes...
+<br/> 
+<br/>
+</td>
+</tr>
+<br/>
 </table>
 
 ## `socials`
