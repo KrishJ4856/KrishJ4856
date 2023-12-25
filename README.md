@@ -1,135 +1,31 @@
 ![krish-banner](https://user-images.githubusercontent.com/114345816/232287628-c6c967e2-4aae-465e-9509-8b29186f58a9.jpeg)
 
-## My Introduction ✨
-<table>
-  <tr>
-    <td valign="center">
-      <a href="https://linkfree.eddiehub.io/KrishJ4856">
-        <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="My Portfolio"/></a>
-      <p>
-        <h3>Hello👋🏾</h3>
-        👀 &nbsp; I am a high schooler, passionate about Web Development.
-        <br/>
-     🚀 &nbsp; I write blogs on <a href="https://krishwebdev.hashnode.dev/">Hashnode.</a>
-        <br/>
-        🙂 &nbsp; I am currently learning React, Node and ExpressJS
-        <br/>
-        🧑🏽‍💻 &nbsp;I create informative threads on Twitter, You can reach out to me from here
-        <br />
-        💙 &nbsp;Follow me on github to stay tuned on my amazing projects.
-        <br />
-        <h3>Twitter</h3>
-        <a href="https://twitter.com/Krish4856">
-          <img src="https://img.shields.io/twitter/follow/KrishJ4856?color=0F182A&logo=twitter&style=for-the-badge" alt="Twitter Follow Badge"/></a>
-       </p>
-    </td>
-    <td>
-      <a href="https://app.daily.dev/KrishJ999"><img src="https://api.daily.dev/devcards/b30e1d5e64d8419b96b475e2996ef0e5.png?r=ao8" width="400" alt="Krish Jaiswal's Dev Card"/></a>
-    </td>
-  </tr>
- </table> <br/>
+## `whoami`
 
-## My Github Stats && Technologies I use 👀
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/KrishJ4856"><img alt="Krish's Github Stats" src="https://github-readme-stats.vercel.app/api?username=KrishJ4856&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" /></a>
-    </td>
-    <td>
-      <a href="http://www.github.com/KrishJ4856"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KrishJ4856&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-    </td>
-    <td>
-      <a href="https://github.com/KrishJ4856"><img alt="Krish's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishJ4856&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p align="center">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
-        </a>
-        <p align="center">JavaScript</p>
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
-        </a>
-        <p align="center">HTML5</p>
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" />
-      </a>
-        <p align="center">Redux</p>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p align="center">
-        <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
-      </a>
-        <p align="center">CSS</p>
-      </p>
-    </td>
-    <td>      
-      <p align="center">
-        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
-        </a>
-        <p align="center">Tailwind</p>
-      </p>
-    </td>
-    <td>            
-      <p align="center">
-        <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
-      </a>
-        <p align="center">NodeJS</p>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p align="center">
-        <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
-        </a>
-        <p align="center">React</p>
-      </p>
-    </td>
-    <td>
-      <p align="center">
-          <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" />
-          </a>
-        <p align="center">Firebase</p>
-      </p>      
-    </td>
-    <td>
-      <p align="center">
-          <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-          <img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" />
-          </a>
-        <p align="center">Express</p>
-      </p>      
-    </td>
-  </tr>
-</table> <br/>
+- Hi, My name is Krish 👋
+- When not struggling to pass exams, I sometimes code 🤓
+- Learning Web Dev and DevOps currently 👀 
+- I write blogs at [FreeCodeCamp](https://www.freecodecamp.org/news/author/krish) ✨ 
+- Web Developer at [RepoCraft](https://twitter.com/repocraft) 🛠️
+## `tech`
+#### Frontend 
+![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)  ![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)  ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)  ![NextJS](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)  ![Svelte](https://img.shields.io/badge/Svelte-FF3E00.svg?style=for-the-badge&logo=Svelte&logoColor=white)  ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)  
 
-## Recent Blog Posts 📝
+#### Backend 
+![NodeJS](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)  ![ExpressJS](https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
+
+
+## `blogs`
 <table>
 <tr>
 <td>
 <br/>
-<a href="https://krishwebdev.hashnode.dev/destructuring-in-javascript" title="Destructuring in JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1672768024356/2e069585-a765-482d-99db-07a75beec444.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Destructuring in JavaScript" width="400px" align="left" /></a>
-<a href="https://krishwebdev.hashnode.dev/destructuring-in-javascript" title="Destructuring in JavaScript"><h3>Destructuring in JavaScript</h3></a>
-Destructuring in JavaScript is a powerful and one of the coolest features of ES6. It gains importance especially when you move on from Vanilla JavaScript and start learning Frameworks like React where you will find destructuring used in almost every single file...
+<a href="https://www.freecodecamp.org/news/nodejs-tutorial-build-a-task-manager-cli-tool/" title="How to Build a Task Manager CLI Tool with Node.js"><img src="https://github.com/KrishJ4856/KrishJ4856/assets/114345816/cbbcebff-ce61-42e0-a90a-e4c24b7c7e81" alt="How to Build a Task Manager CLI Tool with Node.js" width="300px" align="left" /></a>
+
+<a href="https://www.freecodecamp.org/news/nodejs-tutorial-build-a-task-manager-cli-tool/" title="How to Build a Task Manager CLI Tool with Node.js"><h3>How to Build a Task Manager CLI Tool with Node.js</h3></a>
+Hello everyone 👋 In this tutorial, you'll learn how to make a simple Task Manager CLI (Command Line Interface) tool. This means you can use commands to Create, View, Update, or Delete your todos.
+<br/>
+<br/>
 <br/>
 </td>
 </tr>
@@ -137,57 +33,17 @@ Destructuring in JavaScript is a powerful and one of the coolest features of ES6
 <tr>
 <td>
 <br/>
-<a href="https://krishwebdev.hashnode.dev/setting-up-your-tailwind-css-project" title="Setting Up Your Tailwind CSS Project"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1672040492664/4a281667-a089-4afa-9ed4-32edcc314f73.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Setting Up Your Tailwind CSS Project" width="400px" align="left" /></a>
-<a href="https://krishwebdev.hashnode.dev/setting-up-your-tailwind-css-project" title="Setting Up Your Tailwind CSS Project"><h3>Setting Up Your Tailwind CSS Project</h3></a>
- If you are new to Tailwind CSS, setting up your first Tailwind Project may be hard and confusing for most. Many give up learning this beautiful framework simply because they are doing some silly mistakes...
-<br/>
-</td>
-</tr>
-</table>
+<a href="https://www.freecodecamp.org/news/get-started-with-nodejs/" title="How to Get Started with NodeJS – a Handbook for Beginners"><img src="https://github.com/KrishJ4856/KrishJ4856/assets/114345816/2746137c-4a79-47ee-b0e2-27ffab9155a3" alt="How to Get Started with NodeJS – a Handbook for Beginners" width="300px" align="left" /></a>
 
-## Recent Threads On Twitter 🧵
-<table>
-<tr>
-<td>
-<br/>
-<a href="https://twitter.com/Krish4856/status/1616517509368406017?s=20&t=qdmQvsqA4qcffSVKCp4zDA" title="TailwindCSS + ReactJS Project Setup"><img src="https://pbs.twimg.com/media/Fm7aM-daAAIcKpO?format=jpg&name=small" alt="TailwindCSS + ReactJS Project Setup" width="400px" align="left" /></a>
-<a href="https://twitter.com/Krish4856/status/1616517509368406017?s=20&t=qdmQvsqA4qcffSVKCp4zDA" title="TailwindCSS + ReactJS Project Setup"><h3>TailwindCSS + ReactJS Project Setup</h3></a>
-Do you want to know How you can set up a Tailwind + ReactJS Project?
-In this thread we will be discussing the steps you need to follow to integrate TailwindCSS with your React project...
-<br/>
-</td>
-</tr>
-<br/>
-<tr>
-<td>
-<br/>
-<a href="https://twitter.com/Krish4856/status/1611330756684689409?s=20&t=qdmQvsqA4qcffSVKCp4zDA" title="6 Use Cases Of useEffect() Hook In React"><img src="https://pbs.twimg.com/media/FlyX8TKagAMSdBt?format=jpg&name=900x900" alt="Setting Up Your Tailwind CSS Project" width="400px" align="left" /></a>
-<a href="https://twitter.com/Krish4856/status/1611330756684689409?s=20&t=qdmQvsqA4qcffSVKCp4zDA"><h3>6 Use Cases Of useEffect() Hook In React</h3></a>
-Learn all the 6 use cases of useEffect() Hook in ReactJS. This thread will give you a detailed understanding of the useEffect() hook and when and how should you use them...
+<a href="https://www.freecodecamp.org/news/get-started-with-nodejs/" title="How to Get Started with NodeJS – a Handbook for Beginners"><h3>How to Get Started with NodeJS – a Handbook for Beginners</h3></a>
+Hello folks! 👋 Recently, I have been learning about Node.js. So I decided to share my learnings with you here. 👨‍💻 In this tutorial, we'll take a high-level look at Node.js – what it is, and what you can do with it...
 <br/> 
+<br/>
+<br/>
 </td>
 </tr>
 </table>
 
-## My Projects 🤩
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/KrishJ4856/Rock-Paper-Scissors-App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KrishJ4856&repo=Rock-Paper-Scissors-App" /></a>
-    </td>
-    <td>
-      <a href="https://github.com/KrishJ4856/Case-Converter-App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KrishJ4856&&repo=Case-Converter-App" /></a>
-    </td>
-   </tr>
- <tr>
-   <td>
-      <a href="https://github.com/KrishJ4856/QR-Code-Generator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KrishJ4856&&repo=QR-Code-Generator" /></a>
-    </td>
-   <td>
-      <a href="https://github.com/KrishJ4856/Calculator-App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KrishJ4856&&repo=Calculator-App" /></a>
-    </td>
-  </tr>
-</table>
+## `socials`
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=KrishJ4856&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
-
+[![Twitter](https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Krish4856) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/krish4856/)  [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF.svg?style=for-the-badge&logo=Hashnode&logoColor=white)](https://krishwebdev.hashnode.dev/)  [![FreeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23.svg?style=for-the-badge&logo=freeCodeCamp&logoColor=white)](https://www.freecodecamp.org/news/author/krish)
